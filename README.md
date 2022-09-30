@@ -23,8 +23,8 @@
 4. 数据、训练参数等均位于config.py  
 
 ## 效果展示  
-![image]()  
-![image]()  
+![image](https://github.com/JJASMINE22/Faceswape/blob/main/sample/sample1.jpg)  
+![image](https://github.com/JJASMINE22/Faceswape/blob/main/sample/sample2.jpg)  
 
 ## 训练步骤  
 运行train.py  
